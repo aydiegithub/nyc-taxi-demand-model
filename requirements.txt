@@ -8,6 +8,7 @@ streamlit==1.44.1
 pydeck==0.9.1
 altair==5.5.0
 pillow==11.2.1
+folium==0.16.0  # Added for interactive maps
 
 # Utilities
 joblib==1.4.2
